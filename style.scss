@@ -19,7 +19,7 @@ html {
 
 body {
 	background: #faf8f0;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 $Gill Sans;
   color: $darkGray;
 }
 
@@ -31,7 +31,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: "Gill Sans", sans-serif;
+  //font-family: $helveticaNeue;
   color: $darkerGray;
   font-weight: bold;
 
