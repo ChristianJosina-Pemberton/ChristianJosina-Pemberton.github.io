@@ -19,7 +19,7 @@ html {
 
 body {
 	background: #faf8f0;
-  font: 18px/1.4 $Gill Sans;
+  font: 18px/1.4 $GillSans;
   color: $darkGray;
 }
 
@@ -70,11 +70,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $green;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $green;
   }
 }
 
