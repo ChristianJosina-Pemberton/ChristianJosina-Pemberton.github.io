@@ -9,7 +9,7 @@ name: Christian Josina Pemberton
 description: DREAM Project
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://ChristianJosina-Pemberton.github.io/images/ProfilePicture.png  
+avatar: https://ChristianJosina-Pemberton.github.io/images/ProfilePicture2.png  
 
 #
 # Flags below are optional
@@ -19,8 +19,8 @@ avatar: https://ChristianJosina-Pemberton.github.io/images/ProfilePicture.png
 footer-links:
   dribbble:
   email: cpember2@depaul.edu 
-  linkedin: www.linkedin.com/in/christian-pemberton
-  website: https://www.cj-ux.com/
+  linkedin: https://www.linkedin.com/in/christian-pemberton/
+   
   rss: # just type anything here for a working RSS icon
 
 # Your website URL (e.g. http://ajstent.github.io)
