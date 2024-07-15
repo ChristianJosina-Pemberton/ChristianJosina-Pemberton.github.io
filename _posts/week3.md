@@ -1,9 +1,7 @@
- ---
-layout: post
-title: Week 3 (July 1st- July 10th) 
 ---
-
-(3 day work week combined) 
+layout: post
+title: Week 3 (July 1st- July 10th; 3 day work week combined) 
+---
 
 This week I devoted half my time to filling out the IRB registration form, and the other half to the literature review. IRB stands for Institutional Review Board; for the study Dr. Alonzo will need to submit the form and earn approval in efforts to seek publication. My job, as lead student researcher, is to create a draft of the IRB form, in effort to illuminate areas of attention that will assist him in his final edit. The process of filling out the IRB form was very tedious, but nonetheless exciting. As a novice, I value daily experiences that a UX researcher would typically encounter; as it helps inform my decision process, regarding future career choices. Though arduous and very confusing at times, my excitement kept me going. I compiled a long list of 14 questions and designed some study promotional posters (attached below) that I am looking forward to reviewing with Dr. Alonzo, this upcoming Wednesday. 
 
