@@ -1,6 +1,6 @@
  ---
 layout: post
-title: Week 2 (July 1st- July 10th) 
+title: Week 3 (July 1st- July 10th) 
 ---
 
 (3 day work week combined) 
