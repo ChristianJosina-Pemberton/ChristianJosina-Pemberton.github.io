@@ -1,1 +1,10 @@
+---
+layout: post
+title: Week 2 (June 24-June 28th ) 
+---
 
+This week I worked on my literature review and attempted to reel in different areas of interest, in efforts to focus on new, niche perspectives. After meeting with Dr. Alonzo I realized that any topic in relation to loose themes of our research can be deemed as relevant. 
+
+For example, because we are aiming to learn more about user generated content creators and their processes regarding accessibility, the methods in which hearing persons view online content is also relevant. Therefore, I decided to take a monetary break from papers that centered around the communication experiences of DHH and BLV persons. Instead, I focused on the online perspective of content creators and hearing persons. In total I read about a dozen papers, regarding content creators’ accessibility challenges and online identity expression. 
+
+Ultimately, I enjoyed this new path; I found that it can be very easy to account blame and judge to one side. I initially thought unfavorably of laymen content creators, given the universal lack of effort to cater to viewers with sensory disabilities. However I found that content creation is a difficult, cut throat field, fueled by corrupt monetary systems, which are based on fleeting popularity and trends. Moreover, whilst most creators wish to do more, regarding accessibility, oftentimes online platforms fail them, as there isn’t an automated solution to fix their content or even offer creators accessibility  education in the first place. 
