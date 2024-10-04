@@ -21,8 +21,8 @@ Dr. Alonzo's work focuses on Computing Accessibility and Human-Computer Interact
 
 User-generated content is increasingly abundant online, but it is most often not made accessible for people with sensory disabilities. Current research has explored remedial approaches using AI to make inaccessible content accessible. However, automatic processes are typically decoupled from the content’s author and may introduce errors or misinterpretations of the authors’ intentions. Thus, as part of my long-term research, I aim to explore how AI can be used to support authors in creating accessible content from the start. To lay the groundwork this long-term vision, in this project, I propose a survey and two interview studies involving people with sensory disabilities, and content creators who are popular among our survey respondents, to explore users’ accessibility needs and the experiences of content creators in producing accessible content – or lack thereof – and their best practices or challenges in doing so. 
 
-[My Final Report](files/finalreport.pdf)
-[My Final Report](files/surveyquestionnaire.pdf)
+[My Final Report](files/finalreport.pdf)<br>
+[Survey Questionnaire](files/surveyquestionnaire.pdf)
 
 ## My Blog
 
